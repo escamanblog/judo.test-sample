@@ -1,0 +1,16 @@
+.button-4 {
+  display: inline-block;
+  padding: 0.4em 1.6em;
+  font-size: 0.8em;
+  color: #00b5ad;
+  text-decoration: none;
+  user-select: none;
+  border: 1px #00b5ad solid;
+  border-radius: 3px;
+  transition: 0.4s ease;
+}
+
+.button-4:hover {
+  color: #fff;
+  background: #00b5ad;
+}
