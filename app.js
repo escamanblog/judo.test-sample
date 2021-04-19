@@ -61,7 +61,7 @@ const clickHandler = (e) => {
         setupQuiz();
     } else {
         //問題数がなければこちらを実行
-        window.alert('Done! You result is ' + score + '/' + quizLength);
+        window.alert('Done! Your result is ' + score + '/' + quizLength);
     }
 };
 
