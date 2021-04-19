@@ -9,23 +9,23 @@ const quiz = [
         ],
         correct: 'Black Belt'
     },{
-        question: 'What is Kuro Obi?2',
+        question: 'Who made Judo?',
         answers:[
-        'Technique name',
-        'Founder of Judo',
-        'Black Belt',
-        'Judo Gym'
+        'Jigoro Kano',
+        'Teddy Riner',
+        'Steve Jobs',
+        'Abe Shinzo'
     ],
-    correct: 'Black Belt'},
+    correct: 'Jigoro Kano'},
     {
-        question: 'What is Kuro Obi?3',
+        question: 'What is the word 「bow」 in Japanese?',
         answers:[
-            'Technique name',
-            'Founder of Judo',
-            'Black Belt',
-            'Judo Gym'
+            'Newaza',
+            'Rei',
+            'Ukemi',
+            'Eri'
         ],
-        correct: 'Black Belt'
+        correct: 'Rei'
     }
 ];
 
